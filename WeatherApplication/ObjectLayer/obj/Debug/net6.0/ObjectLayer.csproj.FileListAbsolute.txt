@@ -1,0 +1,14 @@
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\bin\Debug\net6.0\ObjectLayer.deps.json
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\bin\Debug\net6.0\ObjectLayer.runtimeconfig.json
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\bin\Debug\net6.0\ObjectLayer.dll
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\bin\Debug\net6.0\ref\ObjectLayer.dll
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\bin\Debug\net6.0\ObjectLayer.pdb
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.csproj.AssemblyReference.cache
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.AssemblyInfoInputs.cache
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.AssemblyInfo.cs
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.dll
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ref\ObjectLayer.dll
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.pdb
+C:\Work\Daniil_Finski_Individual_Mentorship\WeatherApplication\ObjectLayer\obj\Debug\net6.0\ObjectLayer.genruntimeconfig.cache

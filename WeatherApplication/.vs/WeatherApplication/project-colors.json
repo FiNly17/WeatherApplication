@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c40a43ad-055d-4154-bd2d-583c470e5bf5": {
+      "ProjectGuid": "c40a43ad-055d-4154-bd2d-583c470e5bf5",
+      "DisplayName": "WeatherApplication",
+      "ColorIndex": 0
+    },
+    "c4ddf1d3-32d5-485e-97fb-209daf8c7b19": {
+      "ProjectGuid": "c4ddf1d3-32d5-485e-97fb-209daf8c7b19",
+      "DisplayName": "ObjectLayer",
+      "ColorIndex": 1
+    },
+    "b40cac5c-0e97-4239-ab10-ae2ba57fccfb": {
+      "ProjectGuid": "b40cac5c-0e97-4239-ab10-ae2ba57fccfb",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "aab6d099-e577-4286-8f0d-e77573c227a8": {
+      "ProjectGuid": "aab6d099-e577-4286-8f0d-e77573c227a8",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
+    },
+    "3baf7133-b1af-40ea-bc0f-8eccee64aa1d": {
+      "ProjectGuid": "3baf7133-b1af-40ea-bc0f-8eccee64aa1d",
+      "DisplayName": "BLL.Tests",
+      "ColorIndex": 4
+    },
+    "262e43ee-8338-486b-b6f2-a869046fc1e7": {
+      "ProjectGuid": "262e43ee-8338-486b-b6f2-a869046fc1e7",
+      "DisplayName": "BLL.IntegrationTests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
